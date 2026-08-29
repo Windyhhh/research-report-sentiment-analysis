@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📈 research-report-sentiment-analysis
+# 研报情感分析 | research-report-sentiment-analysis
 
 ### NLP sentiment analysis on financial research reports.
 
